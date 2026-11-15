@@ -1,6 +1,5 @@
 import Header from "./components/Header.tsx";
 import Form from "./components/Form.tsx";
-``;
 import Track from "./components/Track.tsx";
 import "./App.css";
 import { useState } from "react";
